@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#search{
+    margin-left: 200px;
+}
+
+.nav-link{
+    margin-left: 50px;
+
+
+}
+
+
+.nav-item a:hover{
+    color: white;
+    background-color: palevioletred;
+}
+
+.btn:hover{
+     background-color: palevioletred;
+}
+
+
+
+
+
+.card:hover{
+
+    scale: 1.06;
+
+}
+
+
